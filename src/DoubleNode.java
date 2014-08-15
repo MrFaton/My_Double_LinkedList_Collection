@@ -1,5 +1,5 @@
 /**
- * Created by Faton on 15.08.2014.
+ * Created by Faton123 on 15.08.2014.
  */
 public class DoubleNode {
     int value;
